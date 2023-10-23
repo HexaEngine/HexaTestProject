@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<Reference Include="Silk.NET.Core">
+			<HintPath>C:\Users\juna\source\repos\JunaMeinhold\HexaEngine\Editor\bin\Debug\net8.0\Silk.NET.Core.dll</HintPath>
+		</Reference>
+		<Reference Include="HexaEngine.Core">
+			<HintPath>C:\Users\juna\source\repos\JunaMeinhold\HexaEngine\Editor\bin\Debug\net8.0\HexaEngine.Core.dll</HintPath>
+		</Reference>
+		<Reference Include="HexaEngine">
+			<HintPath>C:\Users\juna\source\repos\JunaMeinhold\HexaEngine\Editor\bin\Debug\net8.0\HexaEngine.dll</HintPath>
+		</Reference>
+		<Reference Include="HexaEngine.Mathematics">
+			<HintPath>C:\Users\juna\source\repos\JunaMeinhold\HexaEngine\Editor\bin\Debug\net8.0\HexaEngine.Mathematics.dll</HintPath>
+		</Reference>
+		<Reference Include="BepuPhysics">
+			<HintPath>C:\Users\juna\source\repos\JunaMeinhold\HexaEngine\Editor\bin\Debug\net8.0\BepuPhysics.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>
